@@ -6,7 +6,7 @@ Can current models be trusted to evaluate whether an edit respected an author's 
 The scope is deliberately narrow: **one text by one author**. This pilot does not claim anything about human thinking in general.
 
 ## Why it matters
-Our societies are under strain: international and local conflicts, deep inequality, hunger. Whatever comes next will have AI built into it, and some people propose that AI should govern us. I do not think it should. These experiments are about where to draw the line between what we can and cannot trust AI to do.
+Our societies are under strain: international and local conflicts, deep inequality, hunger. Whatever comes next will have AI built into it, and some people propose that AI should govern us. I do not think it should. These experiments are about where to draw the line between what we can and can't trust AI to do.
 
 My book proposes an AI that is clear, objective, without hidden agendas, and auditable. A decision tree is the textbook example of an auditable system, but it would not scale, so the practical question is which current models can play that role. When an evaluator can't be audited, it is failing its own purpose.
 
