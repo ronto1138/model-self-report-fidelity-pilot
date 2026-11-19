@@ -1,0 +1,28 @@
+Para editar este texto, es importante saber qué uso le vas a dar. Al ser un **flujo de pensamiento (o monólogo interior)**, tiene un tono muy libre y personal.
+
+Aquí te presento **dos opciones de edición**:
+
+### Opción 1: Corrección directa (Mantiene tu estilo informal y tu "flujo de conciencia")
+*Esta opción conserva exactamente lo que estabas pensando y tu forma de hablarte a ti mismo, pero corrige los errores ortográficos (como "exribi", "mas mejor", "tango") y ajusta la puntuación para que sea más fácil de leer.*
+
+### Opción 2: Estilo Ensayo / Texto Creativo (Pulido para ser publicado o leído por otros)
+*Esta opción transforma tu lluvia de ideas en un texto narrativo fluido, manteniendo tu humor y tu reflexión sobre la dislexia, pero listo para un público.*
+
+> **Pienso, luego escribo... ¿O escribo y luego pienso?** 
+> 
+> Esto me recuerda a un cuento que escribí hace tiempo titulado *Me relaciono, luego existo*. Pero me estoy desviando. Concéntrate. ¿Cómo comienzo?
+> 
+> *Dyslexia*. Me gusta más cómo se ve escrito en inglés, aunque en español sea con "i". Ya lo corregiré después. 
+> 
+> Me pregunto si debería copiar la definición de la RAE, pero prefiero explicarlo directamente. Según el diccionario hay dos acepciones. Una es la médica, pero no creo que aplique a mí: nunca he tenido una lesión cerebral y esto me ha acompañado siempre. ¿Será por la dislexia que nunca me sale la firma igual? Probablemente. Lo que es un hecho es que escribir a mano siempre me ha costado un trabajo enorme. Aún recuerdo a mi mamá insistiendo con las planas de caligrafía; esfuerzos que, evidentemente, no funcionaron.
+> 
+> Si me quedo con la definición orientada al aprendizaje, la dislexia es una dificultad para leer y escribir relacionada con un trastorno motriz. Y así es justo como lo siento: como si mis manos no supieran qué hacer frente al papel. En mi caso, logré dominar la lectura, pero mi caligrafía sigue siendo pésima.
+> 
+> Mientras escribo esto, mantengo una de mis habituales conversaciones internas. Me pregunto si todo el mundo hablará así consigo mismo, si dialogan de uno a uno o si también tienen a una multitud en la cabeza (aunque al final solo uno responda).
+> 
+> En fin, para no distraerme más: mi verdadero aliado es el teclado. Con él no tengo que pelearme por la forma de los trazos, aunque siga cambiando las *b* por *d* o las *a* por *e*. La pantalla me da la fluidez que mi mano me niega. Así que, habiendo aclarado qué es la dislexia para mí, es momento de contar mi experiencia.
+
+### Principales correcciones realizadas:
+1. **Ortografía:** Se corrigieron palabras con dedazos o disgrafía (*exribi* $\rightarrow$ escribí, *trastonos* $\rightarrow$ trastornos, *tango* $\rightarrow$ tengo, *sige* $\rightarrow$ sigue).
+2. **Gramática:** Se corrigió "es más mejor" por "es mejor" o "más bien".
+3. **Normalización:** Se colocaron las letras sueltas (*b, d, a, e*) y el término en inglés (*Dyslexia*) en cursivas para facilitar la lectura.

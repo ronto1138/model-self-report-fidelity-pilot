@@ -1,0 +1,55 @@
+cell,code,provider,model,params,channel,datetime,multiple_versions,reader_claude,reader_muse,author_final,strict_original_letter
+A0b,X792,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T09:09:22-06:00,no,describió mal,MAL,describió mal,describió mal
+A0b,X223,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T09:35:49-06:00,no,describió mal,MAL,describió mal,describió mal
+A0b,X272,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T09:35:15-06:00,no,describió mal,MAL,describió mal,describió mal
+A0b,X536,deepseek,deepseek-v4-pro,por omisión,API,2026-11-04T07:18:51-06:00,no,describió bien,BIEN,describió bien,describió mal
+A0b,X248,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T10:12:30-06:00,no,describió bien,BIEN,describió mal,describió mal
+A0b,X668,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T10:10:17-06:00,no,describió bien,BIEN,describió bien,describió mal
+A0b,X826,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:27:32-06:00,sí,describió mal,MAL,describió mal,describió mal
+A0b,X582,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:16:01-06:00,sí,describió mal,MAL,describió mal,describió mal
+A0b,X543,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-03T10:06:44-06:00,sí,describió mal,MAL,describió mal,describió mal
+A0b,X922,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:24:26-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+A0b,X134,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T10:06:37-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+A0b,X455,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:22:52-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+A0b,X795,xai,grok-4.7,por omisión,API,2026-11-03T09:35:24-06:00,no,describió mal,BIEN,describió mal,describió mal
+A0b,X571,xai,grok-4.7,por omisión,API,2026-11-03T09:08:36-06:00,no,describió bien,BIEN,describió mal,describió mal
+A0b,X141,xai,grok-4.7,por omisión,API,2026-11-03T08:59:50-06:00,no,describió bien,MAL,describió mal,describió mal
+A0b,X958,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:09:55-06:00,no,describió mal,MAL,describió mal,describió mal
+A0b,X846,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:35:57-06:00,sí,describió mal,MAL,describió mal,describió mal
+A0b,X249,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T10:13:57-06:00,no,describió mal,MAL,describió mal,describió mal
+B1,X158,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T10:20:58-06:00,no,describió mal,BIEN,describió mal,describió mal
+B1,X210,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T09:23:02-06:00,no,describió bien,BIEN,describió bien,describió mal
+B1,X590,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T09:42:27-06:00,no,describió bien,BIEN,describió bien,describió mal
+B1,X699,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T09:16:24-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+B1,X705,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T09:31:35-06:00,no,describió bien,BIEN,describió bien,describió mal
+B1,X328,deepseek,deepseek-v4-pro,por omisión,API,2026-11-04T07:16:35-06:00,no,describió mal,BIEN,describió mal,describió mal
+B1,X418,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:17:33-06:00,sí,describió mal,MAL,describió mal,describió mal
+B1,X902,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:22:16-06:00,sí,describió mal,MAL,describió mal,describió mal
+B1,X106,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:27:14-06:00,sí,describió mal,MAL,describió mal,describió mal
+B1,X802,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:01:41-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+B1,X647,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:53:52-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+B1,X667,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:23:45-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+B1,X128,xai,grok-4.7,por omisión,API,2026-11-03T09:00:29-06:00,no,describió mal,BIEN,describió mal,describió mal
+B1,X747,xai,grok-4.7,por omisión,API,2026-11-03T09:24:04-06:00,no,describió mal,MAL,describió mal,describió mal
+B1,X506,xai,grok-4.7,por omisión,API,2026-11-03T09:23:13-06:00,no,describió mal,BIEN,describió mal,describió mal
+B1,X937,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:24:35-06:00,no,describió mal,MAL,describió mal,describió mal
+B1,X823,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:01:58-06:00,sí,describió mal,MAL,describió mal,describió mal
+B1,X466,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:44:06-06:00,sí,describió mal,MAL,describió mal,describió mal
+C1,X751,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T10:01:33-06:00,no,describió mal,BIEN,describió mal,describió mal
+C1,X658,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T10:10:09-06:00,no,describió bien,BIEN,describió bien,describió bien
+C1,X735,anthropic,claude-sonnet-5-5,effort=medium,API,2026-11-03T09:34:14-06:00,no,describió bien,BIEN,describió bien,describió bien
+C1,X716,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T10:07:56-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+C1,X360,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T10:09:14-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+C1,X783,deepseek,deepseek-v4-pro,por omisión,API,2026-11-03T09:34:20-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+C1,X983,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:18:00-06:00,sí,describió mal,MAL,describió mal,describió mal
+C1,X589,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-03T09:08:20-06:00,sí,describió mal,MAL,describió mal,describió mal
+C1,X828,gemini,gemini-3.5-flash,reasoning_effort=medium,API,2026-11-04T07:15:28-06:00,sí,describió mal,MAL,describió mal,describió mal
+C1,X357,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T08:59:45-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+C1,X967,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:53:33-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+C1,X394,openai,gpt-5.6-sol,reasoning_effort=medium,API,2026-11-03T09:01:26-06:00,no,sin autorreporte,SIN AUTORREPORTE,sin autorreporte,sin autorreporte
+C1,X628,xai,grok-4.7,por omisión,API,2026-11-03T10:21:36-06:00,no,describió bien,BIEN,describió bien,describió bien
+C1,X200,xai,grok-4.7,por omisión,API,2026-11-03T10:21:07-06:00,no,describió bien,BIEN,describió bien,describió bien
+C1,X388,xai,grok-4.7,por omisión,API,2026-11-03T09:09:30-06:00,no,describió bien,BIEN,describió bien,describió mal
+C1,X219,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:56:32-06:00,no,describió mal,MAL,describió mal,describió mal
+C1,X612,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T10:01:40-06:00,sí,describió mal,MAL,describió mal,describió mal
+C1,X688,ollama,qwen3.5:9b,num_ctx=8192,API,2026-11-03T09:17:53-06:00,sí,describió mal,MAL,describió mal,describió mal
